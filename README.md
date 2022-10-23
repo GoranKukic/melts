@@ -19,6 +19,7 @@ Remake this landing page:
 ## Description
 
 - page is responsive for all devices
+- it is pixel perfect with few minor changes so layout is now centered properly
 - in this project I havent used any preporcesors like SCSS for CSS because that was one of conditions
 - also this page is builted without any JavaScript frameworks
 - page is deployed to netlify, and has live preview
